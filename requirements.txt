@@ -1,0 +1,6 @@
+azureml-sdk
+argparse
+pandas
+scikit-learn
+tqdm
+numpy==1.23
